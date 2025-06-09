@@ -1,1 +1,2 @@
 *.key\n*.pem\n.env\n/bin/\n/vendor/
+trust-asset-chaincode-go.code-workspace
